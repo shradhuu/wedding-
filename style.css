@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+   .hero {
+       height: 100vh;
+       background-image: url("./images/home-bg.jpg");
+       background-size: cover;
+       background-position: center;
+       display:flex ;
+       align-items: center;
+       flex-direction: column;
+       justify-content: space-between;
+   }
+   .upper{
+       margin-top: 4.5rem;
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+   }
+   .lower{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-bottom: 4rem;
+   
+   }
+   .btn1{
+       background-color: rgb(206, 19, 19);
+        color: rgb(162, 230, 38);
+        padding: 1rem;
+        margin: 1rem;
+        width: 20rem;
+        border-radius: 10px;
+        font-size: 16px;
+        transform: rotateZ(180);
+   
+   }
+   .btn2{
+       background-color:rgb(226, 152, 175);
+       color: rgb(14, 4, 4);
+       padding: 1rem;
+       margin: 1rem;
+       width: 20rem;
+       border-radius: 10px;
+       font-size: 16px;
+   }
+   .h1{
+       font-size: 40px;
+   }
+   .hero1{
+       height: 100vh;
+       background-image: url("./images/img4.jpg");
+       background-size: cover;
+       background-position: center;
+       display:flex ;
+       align-items: center;
+       flex-direction: column;
+       justify-content: space-between;
+       
+   }
+   nav{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 1rem;
+       position: fixed;
+       top: 0;
+       right: 0;
+       left: 0;
+       right: 0;
+   }
+   .hero2{
+       height: 100vh;
+       background-image: url("./images/img1.jpg");
+       background-size: cover;
+       background-position: center;
+       display:flex ;
+       align-items: center;
+       flex-direction: column;
+       justify-content: space-between;
+       
+   }
+   .hero3{
+       height: 100vh;
+       background-image: url("./images/client-3.jpg");
+       background-size: cover;
+       background-position: center;
+       display:flex ;
+       align-items: center;
+       flex-direction: column;
+       justify-content: space-between;
+       
+   }
+   a{
+       color: black;
+       text-decoration: none;
+       margin-left: 1rem;
+       font-size: 20px;
+       font-weight: 600;
+   }
+   .hero4{
+       height: 100vh;
+       background-image: url("./images/img5.jpg");
+       background-size: cover;
+       background-position: center;
+       display:flex ;
+       align-items: center;
+       flex-direction: column;
+       justify-content: space-between;
+   }
+       
+       .hero5{
+           height: 100vh;
+           background-image: url("./images/img6.jpg");
+           background-size: cover;
+           background-position: center;
+           display:flex ;
+           align-items: center;
+           flex-direction: column;
+           justify-content: space-between;
+       }
+
+       .hero6{
+        height: 100vh;
+        background-image: url("./images/blog-3.jpg");
+        background-size: cover;
+        background-position: center;
+        display:flex ;
+        align-items: center;
+        flex-direction: column;
+        justify-content: space-between;
+    }
